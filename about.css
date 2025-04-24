@@ -141,6 +141,11 @@ a{
     text-decoration: none;
     color: black;
 }
+.a{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+}
 
 .custom_header{
     font-weight: 100;
